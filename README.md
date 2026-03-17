@@ -1,5 +1,7 @@
 # Cheatocalypse
 
+![Preview](preview.png)
+
 A chaos sandbox mod for [Unciv](https://github.com/yairm210/Unciv) (Gods & Kings ruleset) focused on boosted progression, overpowered utility units, and controlled cheat mechanics.
 
 ## Overview
