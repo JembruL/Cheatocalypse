@@ -1,0 +1,441 @@
+[
+   {
+      "name":"Cheat Wonder",
+      "cost":8,
+      "requiredTech":"CheatTech",
+      "isNationalWonder":true,
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Cheat Statue",
+	  "cost":5,
+      "requiredTech":"CheatTech",
+      "requiredBuilding":"Cheat Wonder",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Additional Tech+",
+	  "cost":5,
+      "requiredTech":"CheatTech",
+      "requiredBuilding":"Cheat Wonder",
+      "uniques":[
+         "[1] Free Technologies",
+//		 "Unbuildable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in all cities] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Experiment Unlocker",
+	  "cost":5,
+      "requiredTech":"Experiment",
+      "requiredBuilding":"Cheat Statue",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Other Unlocker",
+	  "cost":5,
+      "requiredTech":"Other",
+      "requiredBuilding":"Cheat Statue",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Unit Unlocker",
+	  "cost":5,
+      "requiredTech":"Unit",
+      "requiredBuilding":"Cheat Statue",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Resource Unlocker",
+	  "cost":5,
+      "requiredTech":"Resource",
+      "requiredBuilding":"Cheat Statue",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Construct Unlocker",
+	  "cost":5,
+      "requiredTech":"Construct",
+      "requiredBuilding":"Cheat Statue",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+//		 "Unbuildable <hidden from users>",
+		 "Unsellable <hidden from users>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Unit Move",
+      "cost":6,
+      "requiredTech":"Unit",
+      "requiredBuilding":"Unit Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+		 "[+1] Movement <for [All] units>",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Unit Reward",
+      "cost":6,
+      "requiredTech":"Unit",
+      "requiredBuilding":"Unit Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+		 "Earn [50]% of the damage done to [Wounded] units as [Gold]",
+         "Earn [5]% of killed [Wounded] unit's [Cost] as [Science]",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Unit Exp",
+      "cost":6,
+      "requiredTech":"Unit",
+      "requiredBuilding":"Unit Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+		 "[+200]% XP gained from combat",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Unit Power",
+      "cost":6,
+      "requiredTech":"Unit",
+      "requiredBuilding":"Unit Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+		 "[+25]% Strength <for [Wounded] units>",
+         "[+30]% Strength <vs [Wounded] units>",
+         "[+15]% to Flank Attack bonuses",
+		 "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Resource+ 10%",
+      "cost":6,
+      "requiredTech":"Resource",
+      "requiredBuilding":"Resource Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[10]% [Production] [in all cities] <hidden from users>",
+         "[10]% [Food] [in all cities] <hidden from users>",
+         "[10]% [Happiness] [in all cities] <hidden from users>",
+         "[10]% [Science] [in all cities] <hidden from users>",
+         "[10]% [Culture] [in all cities] <hidden from users>",
+		 "Comment [Gains [10]% all resources]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Resource+ 20%",
+      "cost":6,
+      "requiredTech":"Resource",
+      "requiredBuilding":"Resource+ 10%",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[20]% [Production] [in all cities] <hidden from users>",
+         "[20]% [Food] [in all cities] <hidden from users>",
+         "[20]% [Happiness] [in all cities] <hidden from users>",
+         "[20]% [Science] [in all cities] <hidden from users>",
+         "[20]% [Culture] [in all cities] <hidden from users>",
+		 "Comment [Gains [20]% all resources]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Resource+ 30%",
+	  "cost":6,
+      "requiredTech":"Resource",
+      "requiredBuilding":"Resource+ 20%",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[30]% [Production] [in all cities] <hidden from users>",
+         "[30]% [Food] [in all cities] <hidden from users>",
+         "[30]% [Happiness] [in all cities] <hidden from users>",
+         "[30]% [Science] [in all cities] <hidden from users>",
+         "[30]% [Culture] [in all cities] <hidden from users>",
+		 "Comment [Gains [30]% all resources]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Resource+ 40%",
+      "cost":6,
+      "requiredTech":"Resource",
+      "requiredBuilding":"Resource+ 30%",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[40]% [Production] [in all cities] <hidden from users>",
+         "[40]% [Food] [in all cities] <hidden from users>",
+         "[40]% [Happiness] [in all cities] <hidden from users>",
+         "[40]% [Science] [in all cities] <hidden from users>",
+         "[40]% [Culture] [in all cities] <hidden from users>",
+		 "Comment [Gains [40]% all resources]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+//		 "Will not be displayed in Civilopedia"
+      ]
+   },
+   {
+      "name":"Construct+",
+      "cost":6,
+      "requiredTech":"Construct",
+      "requiredBuilding":"Construct Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+20]% Production when constructing [All] units [in all cities] <hidden from users>",
+         "[+20]% Production when constructing [All] buildings [in all cities] <hidden from users>",
+         "[+20]% Production when constructing [All] wonders [in all cities] <hidden from users>",
+		 "Comment [Gains [20]% Production when constructing all units, buildings & wonders]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Construct Unit",
+      "cost":6,
+      "requiredTech":"Construct",
+      "requiredBuilding":"Construct Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+30]% Production when constructing [All] units [in all cities]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Construct Building",
+      "cost":6,
+      "requiredTech":"Construct",
+      "requiredBuilding":"Construct Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+30]% Production when constructing [All] buildings [in all cities]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Construct Wonder",
+      "cost":6,
+      "requiredTech":"Construct",
+      "requiredBuilding":"Construct Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+30]% Production when constructing [All] wonders [in all cities]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Gold+",
+      "cost":6,
+      "gold":9999,
+      "requiredTech":"Experiment",
+      "requiredBuilding":"Experiment Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Population Growth",
+      "cost":6,
+      "requiredTech":"Experiment",
+      "requiredBuilding":"Experiment Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[-10]% Food is carried over after population increases [in all cities]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"City Strength+",
+      "cost":6,
+      "requiredTech":"Experiment",
+      "requiredBuilding":"Experiment Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+100]% City Strength from defensive buildings",
+         "[+50]% Strength for cities",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Strategic Resources",
+      "cost":6,
+      "requiredTech":"Other",
+      "requiredBuilding":"Other Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[100]% [Strategic] resource production",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Great Multiple",
+      "cost":6,
+      "requiredTech":"Other",
+      "requiredBuilding":"Other Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[+100]% Great Person generation [in all cities]",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+   {
+      "name":"Reduce Cost",
+      "cost":6,
+      "requiredTech":"Other",
+      "requiredBuilding":"Other Unlocker",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "[-50]% Gold cost of acquiring tiles [in all cities]",
+         "[Gold] cost of purchasing items in cities [-10]%",
+         "[Gold] cost of purchasing [All] buildings [-20]%",
+         "[Gold] cost of purchasing [All] units [-10]%",
+         "[-10]% Gold cost of upgrading",
+         "Only available <for [Human player] Civilizations> <hidden from users>",
+		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
+		 "Destroyed when the city is captured <hidden from users>",
+      ]
+   },
+//   {
+//      "name":"Public Works Administration",
+//      "cost":125,
+//      "isNationalWonder":true,
+//      "uniques":[
+//         "Can only be built <in [in capital] cities>",
+//         "Can only be built <in [Capital] cities>",
+//         "[+25]% Production when constructing [Civilian] units [in all cities]",
+//         "Cost increases by [30] per owned city"
+//      ],
+//      "requiredTech":"Engineering"
+//   },
+   {
+      "name":"Biofuel Farm",
+      "maintenance":3,
+      "hurryCostModifier":25,
+      "uniques":[
+         "Provides [1] [Coal]",
+         "Provides [1] [Oil]",
+         "Only available <in cities with a [Stable]>"
+      ],
+      "requiredBuilding":"Stable",
+      "requiredResource":"Horses",
+      "requiredTech":"Biology"
+   },
+   {
+      "name":"Ore Refinery",
+      "maintenance":3,
+      "hurryCostModifier":25,
+      "uniques":[
+         "Provides [1] [Aluminum]",
+         "Provides [1] [Uranium]",
+         "Only available <in cities with a [Forge]>"
+      ],
+      "requiredBuilding":"Forge",
+      "requiredResource":"Iron",
+      "requiredTech":"Atomic Theory"
+   },
+   {
+      "name":"Reveal FOG",
+      "cost":0,
+      "requiredTech":"Other",
+      "uniques":[
+         "Can only be built <in [in capital] cities>",
+         "Reveals the entire map <hidden from users>",
+         "Limited to [1] per Civilization <hidden from users>"
+      ]
+   }
+]
