@@ -1,0 +1,231 @@
+[
+   {
+      "name":"Exploration",
+      "uniques":[
+         "[+1] Sight",
+		 "[This Unit] gains [2] XP <with [15]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 15% chance and [15] XP upon discovering a tile & Natural Wonder]"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ]
+   },
+   {
+      "name":"Land Exploration",
+      "uniques":[
+		 "[+1] Sight",
+		 "[This Unit] gains [2] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 20% chance and [15] XP upon discovering a tile & Natural Wonder]"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Civilian",
+		 "Sword",
+		 "Gunpowder",
+		 "Archery",
+		 "Ranged Gunpowder",
+		 "Mounted",
+		 "Armored",
+		 "Siege",
+		 "Civilian Water",
+		 "Melee Water",
+		 "Ranged Water",
+		 "Submarine",
+		 "Aircraft Carrier",
+		 "Fighter",
+		 "Bomber",
+		 "Atomic Bomber",
+		 "Missile",
+		 "Helicopter",
+      ]
+   },
+   {
+      "name":"Aircraft Exploration",
+      "uniques":[
+		 "[+2] Sight",
+		 "[This Unit] gains [2] XP <with [25]% chance> <upon discovering a [All] tile> <hidden from users>",
+         "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
+		 "Comment [This Unit gains [2] XP with a 25% chance and [15] XP upon discovering a tile & Natural Wonder]"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+		 "Aircraft Carrier",
+		 "Fighter",
+		 "Bomber",
+		 "Atomic Bomber",
+		 "Missile",
+		 "Helicopter",
+      ]
+   },
+   {
+      "name":"Dugouts I",
+      "uniques":[
+         "[+33]% Strength <vs [Ranged] units> <when defending>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":27,
+      "row":1
+   },
+   {
+      "name":"Dugouts II",
+      "prerequisites":[
+         "Dugouts I"
+      ],
+      "uniques":[
+         "[+33]% Strength <vs [Ranged] units> <when defending>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":27,
+      "row":2
+   },
+   {
+      "name":"Raid and Run",
+      "prerequisites":[
+         "Survivalism I",
+         "Scouting I"
+      ],
+      "uniques":[
+         "No movement cost to pillage"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":28,
+      "row":1
+   },
+   {
+      "name":"Assault Boats I",
+      "prerequisites":[
+         "Survivalism I",
+         "Scouting I"
+      ],
+      "uniques":[
+         "[+100]% Strength <when defending> <when [Embarked]>",
+         "[+1] Sight <when [Embarked]>"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":29,
+      "row":1
+   },
+   {
+      "name":"Assault Boats II",
+      "prerequisites":[
+         "Assault Boats I"
+      ],
+      "uniques":[
+         "[1] Movement point cost to embark",
+         "[1] Movement point cost to disembark"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":29,
+      "row":2
+   },
+   {
+      "name":"Rangefinder",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "[+1] Range"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":30,
+      "row":1
+   },
+   {
+      "name":"Rapid Fire",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "[+1] additional attacks per turn"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":31,
+      "row":1
+   },
+   {
+      "name":"Pass Without a Trace",
+      "prerequisites":[
+         "Survivalism II",
+         "Scouting II"
+      ],
+      "uniques":[
+         "Ignores Zone of Control"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":32,
+      "row":1
+   },
+   {
+      "name":"Covert Operations",
+      "prerequisites":[
+         "Survivalism III",
+         "Scouting III"
+      ],
+      "uniques":[
+         "May enter foreign tiles without open borders",
+         "Invisible to non-adjacent units"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":33,
+      "row":1
+   },
+   {
+      "name":"Elevation",
+      "prerequisites":[
+         "Survivalism II",
+         "Scouting II"
+      ],
+      "uniques":[
+         "Ranged attacks may be performed over obstacles"
+      ],
+      "requiredTech":"CheatTech",
+      "unitTypes":[
+         "Scout"
+      ],
+      "column":34,
+      "row":1
+   },
+   {
+      "name":"Marksmanship",
+      "uniques":[
+         "Can see invisible [Land] units",
+         "Can move after attacking",
+         "[+50]% Strength <vs [Gunpowder] units> <when attacking>",
+         "[+50]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+         "[-100]% Strength <vs cities> <when attacking>"
+      ],
+      "requiredTech":"CheatTech"
+   }
+]

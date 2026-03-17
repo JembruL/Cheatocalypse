@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Air Base", //Due to proper Airstrip/Missile Silo tile improvements being impossible to implement in Unciv
+		"uniques": ["Will not be displayed in Civilopedia"],
+		"movementType": "Land"
+	}
+]

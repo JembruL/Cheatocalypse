@@ -1,0 +1,201 @@
+[
+  {
+    "name": "Activation", //original uncheatmenu
+    "unitType": "Civilian",
+    "uniques": [
+      "[2] Free Technologies <by consuming this unit>",
+      "Unbuildable",
+      "Uncapturable",
+	  "Will not be displayed in Civilopedia"
+    ],
+    "movement": 2
+  },
+  {
+    "name": "Settler", //from boosted settler
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 106,
+    "uniques": [
+      "Founds a new city",
+      "Excess Food converted to Production when under construction",
+      "Requires at least [2] population",
+      "[+3] Sight <before the [Classical era]>",
+      "[+2] Movement <before the [Classical era]>",
+      "Can see over obstacles <before the [Classical era]>"
+    ],
+    "hurryCostModifier": 20
+  },
+  {
+    "name": "Engineer", //enhanced better workers
+    "unitType": "Civilian",
+    "movement": 4,
+    "obsoleteTech": "Industrialization",
+	"requiredTech": "Unit",
+    "replacementTextForUniques": "Super cheat worker with instant abilities",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+      "Can instantly construct a [Farm] improvement",
+      "Can instantly construct a [Pasture] improvement",
+      "Can instantly construct a [Plantation] improvement",
+      "Can instantly construct a [Mine] improvement",
+      "Can instantly construct a [Quarry] improvement",
+      "Can instantly construct a [Trading post] improvement",
+      "Can instantly construct a [Camp] improvement",
+      "Can instantly construct a [Lumber mill] improvement",
+      "Can instantly construct a [Oil well] improvement",
+      "Can instantly construct a [All Road] improvement",
+      "Can instantly construct a [Fort] improvement",
+      "Automation is a primary action",
+	  "Will not be displayed in Civilopedia"
+    ],
+    "cost": 50
+  },
+  {
+    "name": "Renovator", //from better workers
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 50,
+    "requiredTech": "Unit",
+    "replacementTextForUniques": "Can instantly remove Forests, Jungles or Marshes from tiles 5 times",
+    "uniques": [
+      "Can build [Land] improvements on tiles",
+	  "Can instantly construct a [Remove Forest] improvement",
+      "Can instantly construct a [Remove Jungle] improvement",
+      "Can instantly construct a [Remove Marsh] improvement",
+	  "Can instantly construct a [All Road] improvement",
+	  "Will not be displayed in Civilopedia"
+    ]
+  },
+//  {
+//    "name": "Civil Engineer", //from better workers
+//    "unitType": "Civilian",
+//    "movement": 5,
+//    "cost": 150,
+//    "requiredTech": "CheatTech",
+//    "uniques": [
+//      "Can build [Land] improvements on tiles",
+//	  "Can instantly construct a [All Road] improvement",
+//      "[-33]% construction time for [All] improvements",
+//      "[+1] Movement <after discovering [Combustion]>",
+//      "[+1] Movement <after discovering [Mobile Tactics]>"
+//    ]
+//  },
+  {
+    "name": "Aerodrome", //from better workers
+    "unitType": "Air Base",
+    "movement": 2,
+    "strength": 60,
+    "cost": 250,
+    "requiredTech": "Construction",
+    "uniques": [
+      "Limited to [5] per Civilization",
+      "Cannot move",
+      "Uncapturable",
+      "Unbuildable",
+      "Cannot be purchased",
+      "Can carry [5] [Aircraft] units",
+      "[+25]% Strength <vs [Air] units> <when defending>",
+      "[-100]% maintenance costs",
+	  "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    "name": "Missile Silo", //from better workers
+    "unitType": "Air Base",
+    "movement": 2,
+    "strength": 60,
+    "cost": 250,
+    "requiredTech": "Construction",
+    "uniques": [
+      "Limited to [5] per Civilization",
+      "Cannot move",
+      "Uncapturable",
+      "Unbuildable",
+      "Cannot be purchased",
+      "Can carry [5] [Missile] units",
+      "Invisible to non-adjacent units",
+      "[-100]% maintenance costs",
+	  "Will not be displayed in Civilopedia"
+    ]
+  },
+  {
+    	"name": "Scout",
+    	"unitType": "Scout",
+    	"movement": 2,
+    	"strength": 5,
+    	"cost": 25,
+    	"obsoleteTech": "Trapping",
+        "upgradesTo": "Hunter",
+	"promotions": ["Ignore terrain cost"],
+	"attackSound": "nonmetalhit"
+    },
+    {
+        "name": "Hunter",		
+        "unitType": "Scout",
+        "range": 1,
+        "movement": 3,		
+        "strength": 6,		
+        "rangedStrength": 10,
+        "cost": 56,	
+        "requiredTech": "Trapping",
+        "obsoleteTech": "Guilds",
+        "uniques": ["Can move after attacking","[-100]% Strength <vs cities> <when attacking>"],
+        "upgradesTo": "Explorer",
+        "promotions": ["Ignore terrain cost"],		
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Explorer",		
+        "unitType": "Scout",
+        "range": 1,
+        "movement": 3,		
+        "strength": 14,		
+        "rangedStrength": 16,
+        "cost": 90,	
+        "requiredTech": "Guilds",
+        "obsoleteTech": "Rifling",
+        "uniques": ["Can move after attacking","[-100]% Strength <vs cities> <when attacking>"],
+        "upgradesTo": "Sharpshooter",
+        "promotions": ["Ignore terrain cost"],		
+        "attackSound": "crossbow"
+    },
+    {
+        "name": "Sharpshooter",
+        "unitType": "Scout",
+        "range": 2,		
+        "movement": 2,		
+        "strength": 20,		
+        "rangedStrength": 20,		
+        "cost": 225,		
+        "requiredTech": "Rifling",		
+        "upgradesTo": "Sniper",		
+        "promotions": ["Ignore terrain cost", "Marksmanship"],
+        "obsoleteTech": "Ballistics",		
+        "attackSound": "shot"
+    },
+    {
+        "name": "Sniper",
+        "unitType": "Scout",
+        "range": 3,		
+        "movement": 2,		
+        "strength": 40,		
+        "rangedStrength": 40,		
+        "cost": 350,		
+        "requiredTech": "Ballistics",
+        "upgradesTo": "Spec Ops",
+        "promotions": ["Ignore terrain cost", "Marksmanship"],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Spec Ops",
+        "unitType": "Scout",
+        "range": 2,		
+        "movement": 3,		
+        "strength": 50,		
+        "rangedStrength": 50,		
+        "cost": 425,		
+        "requiredTech": "Computers",
+        "promotions": ["Ignore terrain cost", "Marksmanship", "Covert Operations"],
+        "attackSound": "shot"
+    }
+]
