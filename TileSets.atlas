@@ -1,0 +1,237 @@
+
+TileSets.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Activation
+  rotate: false
+  xy: 4, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Activation-1
+  rotate: false
+  xy: 4, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Activation-2
+  rotate: false
+  xy: 107, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome
+  rotate: false
+  xy: 4, 4
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome-1
+  rotate: false
+  xy: 1034, 93
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aerodrome-2
+  rotate: false
+  xy: 1137, 182
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer
+  rotate: false
+  xy: 107, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer-1
+  rotate: false
+  xy: 210, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Civil Engineer-2
+  rotate: false
+  xy: 210, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer
+  rotate: false
+  xy: 313, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer-1
+  rotate: false
+  xy: 313, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Engineer-2
+  rotate: false
+  xy: 416, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer
+  rotate: false
+  xy: 416, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter
+  rotate: false
+  xy: 416, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer-1
+  rotate: false
+  xy: 519, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-1
+  rotate: false
+  xy: 519, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Explorer-2
+  rotate: false
+  xy: 519, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hunter-2
+  rotate: false
+  xy: 519, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo
+  rotate: false
+  xy: 90, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo-1
+  rotate: false
+  xy: 1223, 191
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Missile Silo-2
+  rotate: false
+  xy: 162, 13
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator
+  rotate: false
+  xy: 622, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-1
+  rotate: false
+  xy: 622, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-2
+  rotate: false
+  xy: 725, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter
+  rotate: false
+  xy: 725, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-1
+  rotate: false
+  xy: 828, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-2
+  rotate: false
+  xy: 828, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper
+  rotate: false
+  xy: 931, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops
+  rotate: false
+  xy: 931, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-1
+  rotate: false
+  xy: 931, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-1
+  rotate: false
+  xy: 931, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-2
+  rotate: false
+  xy: 1034, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-2
+  rotate: false
+  xy: 1034, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
