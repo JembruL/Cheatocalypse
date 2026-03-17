@@ -25,4 +25,5 @@ It provides faster progression and stronger tools while keeping gameplay from be
 ## Notes
 
 - Built for Gods & Kings ruleset
-- Inspired by existing [UncivCheatMeun](https://github.com/Tonedome/UncivCheatMeun) mods, but heavily reworked 
+- Inspired by existing [UncivCheatMeun](https://github.com/Tonedome/UncivCheatMeun) mods, but heavily reworked
+- Developed on Unciv version 4.19.17-patch2
