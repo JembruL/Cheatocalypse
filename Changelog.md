@@ -2,6 +2,7 @@
 ## [v0.1.1] - 2026-03-17
 ### Added
 - New unit promotion to ignore terrain cost
+- Reveal 4 tiles radius for settlers 
 
 ### Changed
 - Remove exploration global promotion for scout
