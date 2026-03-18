@@ -1,11 +1,11 @@
 [
    {
       "name":"Cheat Wonder",
-      "cost":8,
+      "cost":80,
       "requiredTech":"CheatTech",
       "isNationalWonder":true,
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -15,11 +15,11 @@
    },
    {
       "name":"Cheat Statue",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"CheatTech",
       "requiredBuilding":"Cheat Wonder",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -30,7 +30,7 @@
    },
    {
       "name":"Additional Tech+",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"CheatTech",
       "requiredBuilding":"Cheat Wonder",
       "uniques":[
@@ -44,11 +44,11 @@
    },
    {
       "name":"Experiment Unlocker",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"Experiment",
       "requiredBuilding":"Cheat Statue",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -59,11 +59,11 @@
    },
    {
       "name":"Other Unlocker",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"Other",
       "requiredBuilding":"Cheat Statue",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -74,11 +74,11 @@
    },
    {
       "name":"Unit Unlocker",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"Unit",
       "requiredBuilding":"Cheat Statue",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -89,11 +89,11 @@
    },
    {
       "name":"Resource Unlocker",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"Resource",
       "requiredBuilding":"Cheat Statue",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -104,11 +104,11 @@
    },
    {
       "name":"Construct Unlocker",
-	  "cost":5,
+	  "cost":50,
       "requiredTech":"Construct",
       "requiredBuilding":"Cheat Statue",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 //		 "Unbuildable <hidden from users>",
 		 "Unsellable <hidden from users>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -119,11 +119,11 @@
    },
    {
       "name":"Unit Move",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Unit",
       "requiredBuilding":"Unit Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 		 "[+1] Movement <for [All] units>",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -133,11 +133,11 @@
    },
    {
       "name":"Unit Reward",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Unit",
       "requiredBuilding":"Unit Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 		 "Earn [50]% of the damage done to [Wounded] units as [Gold]",
          "Earn [5]% of killed [Wounded] unit's [Cost] as [Science]",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -148,11 +148,11 @@
    },
    {
       "name":"Unit Exp",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Unit",
       "requiredBuilding":"Unit Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 		 "[+200]% XP gained from combat",
 		 "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -162,11 +162,11 @@
    },
    {
       "name":"Unit Power",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Unit",
       "requiredBuilding":"Unit Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
 		 "[+25]% Strength <for [Wounded] units>",
          "[+30]% Strength <vs [Wounded] units>",
          "[+15]% to Flank Attack bonuses",
@@ -178,11 +178,11 @@
    },
    {
       "name":"Resource+ 10%",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Resource",
       "requiredBuilding":"Resource Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[10]% [Production] [in all cities] <hidden from users>",
          "[10]% [Food] [in all cities] <hidden from users>",
          "[10]% [Happiness] [in all cities] <hidden from users>",
@@ -197,11 +197,11 @@
    },
    {
       "name":"Resource+ 20%",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Resource",
       "requiredBuilding":"Resource+ 10%",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[20]% [Production] [in all cities] <hidden from users>",
          "[20]% [Food] [in all cities] <hidden from users>",
          "[20]% [Happiness] [in all cities] <hidden from users>",
@@ -216,11 +216,11 @@
    },
    {
       "name":"Resource+ 30%",
-	  "cost":6,
+	  "cost":60,
       "requiredTech":"Resource",
       "requiredBuilding":"Resource+ 20%",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[30]% [Production] [in all cities] <hidden from users>",
          "[30]% [Food] [in all cities] <hidden from users>",
          "[30]% [Happiness] [in all cities] <hidden from users>",
@@ -235,11 +235,11 @@
    },
    {
       "name":"Resource+ 40%",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Resource",
       "requiredBuilding":"Resource+ 30%",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[40]% [Production] [in all cities] <hidden from users>",
          "[40]% [Food] [in all cities] <hidden from users>",
          "[40]% [Happiness] [in all cities] <hidden from users>",
@@ -254,11 +254,11 @@
    },
    {
       "name":"Construct+",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Construct",
       "requiredBuilding":"Construct Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+20]% Production when constructing [All] units [in all cities] <hidden from users>",
          "[+20]% Production when constructing [All] buildings [in all cities] <hidden from users>",
          "[+20]% Production when constructing [All] wonders [in all cities] <hidden from users>",
@@ -270,11 +270,11 @@
    },
    {
       "name":"Construct Unit",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Construct",
       "requiredBuilding":"Construct Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+30]% Production when constructing [All] units [in all cities]",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -283,11 +283,11 @@
    },
    {
       "name":"Construct Building",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Construct",
       "requiredBuilding":"Construct Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+30]% Production when constructing [All] buildings [in all cities]",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -296,11 +296,11 @@
    },
    {
       "name":"Construct Wonder",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Construct",
       "requiredBuilding":"Construct Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+30]% Production when constructing [All] wonders [in all cities]",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -309,12 +309,12 @@
    },
    {
       "name":"Gold+",
-      "cost":6,
+      "cost":60,
       "gold":9999,
       "requiredTech":"Experiment",
       "requiredBuilding":"Experiment Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
 		 "Destroyed when the city is captured <hidden from users>",
@@ -322,11 +322,11 @@
    },
    {
       "name":"Population Growth",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Experiment",
       "requiredBuilding":"Experiment Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[-10]% Food is carried over after population increases [in all cities]",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -335,11 +335,11 @@
    },
    {
       "name":"City Strength+",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Experiment",
       "requiredBuilding":"Experiment Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+100]% City Strength from defensive buildings",
          "[+50]% Strength for cities",
          "Only available <for [Human player] Civilizations> <hidden from users>",
@@ -349,11 +349,11 @@
    },
    {
       "name":"Strategic Resources",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Other",
       "requiredBuilding":"Other Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[100]% [Strategic] resource production",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -362,11 +362,11 @@
    },
    {
       "name":"Great Multiple",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Other",
       "requiredBuilding":"Other Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[+100]% Great Person generation [in all cities]",
          "Only available <for [Human player] Civilizations> <hidden from users>",
 		 "Can be purchased for [0] [Gold] [in capital] <hidden from users>",
@@ -375,11 +375,11 @@
    },
    {
       "name":"Reduce Cost",
-      "cost":6,
+      "cost":60,
       "requiredTech":"Other",
       "requiredBuilding":"Other Unlocker",
       "uniques":[
-         "Can only be built <in [in capital] cities>",
+         "Can only be built <in [in capital] cities> <hidden from users>",
          "[-50]% Gold cost of acquiring tiles [in all cities]",
          "[Gold] cost of purchasing items in cities [-10]%",
          "[Gold] cost of purchasing [All] buildings [-20]%",
