@@ -23,6 +23,7 @@
       "[+3] Sight <before the [Classical era]>",
       "[+2] Movement <before the [Classical era]>",
       "Can see over obstacles <before the [Classical era]>",
+	  "Ignores terrain cost",
 	  "Reveal up to [all] [All] within a [4] tile radius"
     ],
     "hurryCostModifier": 20
@@ -47,7 +48,7 @@
       "Can instantly construct a [Oil well] improvement",
       "Can instantly construct a [All Road] improvement",
       "Can instantly construct a [Fort] improvement",
-      "Automation is a primary action",
+      "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
     ],
     "cost": 50
@@ -65,6 +66,7 @@
       "Can instantly construct a [Remove Jungle] improvement",
       "Can instantly construct a [Remove Marsh] improvement",
 	  "Can instantly construct a [All Road] improvement",
+	  "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
     ]
   },
