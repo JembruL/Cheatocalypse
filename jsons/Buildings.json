@@ -32,7 +32,7 @@
       "name":"Additional Tech+",
 	  "cost":50,
       "requiredTech":"CheatTech",
-      "requiredBuilding":"Cheat Wonder",
+//      "requiredBuilding":"Cheat Wonder",
       "uniques":[
          "[1] Free Technologies",
 //		 "Unbuildable <hidden from users>",
