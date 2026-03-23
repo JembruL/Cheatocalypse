@@ -409,7 +409,7 @@
       "uniques":[
          "Provides [1] [Coal]",
          "Provides [1] [Oil]",
-         "Only available <in cities with a [Stable]>"
+//         "Only available <in cities with a [Stable]>"
       ],
       "requiredBuilding":"Stable",
       "requiredResource":"Horses",
@@ -422,7 +422,7 @@
       "uniques":[
          "Provides [1] [Aluminum]",
          "Provides [1] [Uranium]",
-         "Only available <in cities with a [Forge]>"
+//         "Only available <in cities with a [Forge]>"
       ],
       "requiredBuilding":"Forge",
       "requiredResource":"Iron",

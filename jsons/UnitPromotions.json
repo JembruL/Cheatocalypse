@@ -3,7 +3,7 @@
       "name":"Exploration",
       "uniques":[
          "[+1] Sight",
-		 "[This Unit] gains [2] XP <with [15]% chance> <upon discovering a [All] tile> <hidden from users>",
+		 "[This Unit] gains [3] XP <with [15]% chance> <upon discovering a [All] tile> <hidden from users>",
          "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
 		 "Comment [This Unit gains [2] XP with a 15% chance and [15] XP upon discovering a tile & Natural Wonder]"
       ],
@@ -17,7 +17,7 @@
       "uniques":[
 		 "[+1] Sight",
 		 "Ignores terrain cost",
-		 "[This Unit] gains [2] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
+		 "[This Unit] gains [4] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
          "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
 		 "Comment [This Unit gains [2] XP with a 20% chance and [15] XP upon discovering a tile & Natural Wonder]"
       ],
@@ -48,7 +48,7 @@
       "uniques":[
 		 "[+2] Sight",
 		 "Ignores terrain cost",
-		 "[This Unit] gains [2] XP <with [25]% chance> <upon discovering a [All] tile> <hidden from users>",
+		 "[This Unit] gains [4] XP <with [25]% chance> <upon discovering a [All] tile> <hidden from users>",
          "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
 		 "Comment [This Unit gains [2] XP with a 25% chance and [15] XP upon discovering a tile & Natural Wonder]"
       ],
@@ -224,8 +224,8 @@
       "uniques":[
          "Can see invisible [Land] units",
          "Can move after attacking",
-         "[+50]% Strength <vs [Gunpowder] units> <when attacking>",
-         "[+50]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
+         "[+50]% Strength <vs [Ranged] units> <when attacking>",
+//         "[+50]% Strength <vs [Ranged Gunpowder] units> <when attacking>",
          "[-100]% Strength <vs cities> <when attacking>"
       ],
       "requiredTech":"CheatTech"

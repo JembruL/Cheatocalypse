@@ -1,5 +1,14 @@
 # Changelog
-## [v0.1.1] - 2026-03-17
+## v0.1.2
+### Changed
+- Engineer & Renovator change behaviour
+
+### Fixed
+- Fixed syntax error
+
+---
+
+## v0.1.1
 ### Added
 - New unit promotion to ignore terrain cost
 - Reveal 4 tiles radius for settlers 
@@ -12,7 +21,7 @@
 
 ---
 
-## [v0.1.0] - 2026-03-17
+## v0.1.0
 ### Added
 - Initial release
 - New overpowered Scout with extended movement and vision
