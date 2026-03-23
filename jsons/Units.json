@@ -37,17 +37,17 @@
     "replacementTextForUniques": "Super cheat worker with instant abilities",
     "uniques": [
       "Can build [Land] improvements on tiles",
-      "Can instantly construct a [Farm] improvement",
-      "Can instantly construct a [Pasture] improvement",
-      "Can instantly construct a [Plantation] improvement",
-      "Can instantly construct a [Mine] improvement",
-      "Can instantly construct a [Quarry] improvement",
-      "Can instantly construct a [Trading post] improvement",
-      "Can instantly construct a [Camp] improvement",
-      "Can instantly construct a [Lumber mill] improvement",
-      "Can instantly construct a [Oil well] improvement",
+//      "Can instantly construct a [Farm] improvement",
+//      "Can instantly construct a [Pasture] improvement",
+//      "Can instantly construct a [Plantation] improvement",
+//      "Can instantly construct a [Mine] improvement",
+//      "Can instantly construct a [Quarry] improvement",
+//      "Can instantly construct a [Trading post] improvement",
+//      "Can instantly construct a [Camp] improvement",
+//      "Can instantly construct a [Lumber mill] improvement",
+//      "Can instantly construct a [Oil well] improvement",
       "Can instantly construct a [All Road] improvement",
-      "Can instantly construct a [Fort] improvement",
+	  "[-100]% construction time for [All] improvements",
       "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
     ],
@@ -61,10 +61,11 @@
     "requiredTech": "Unit",
     "replacementTextForUniques": "Can instantly remove Forests, Jungles or Marshes from tiles 5 times",
     "uniques": [
-      "Can build [Land] improvements on tiles",
-	  "Can instantly construct a [Remove Forest] improvement",
-      "Can instantly construct a [Remove Jungle] improvement",
-      "Can instantly construct a [Remove Marsh] improvement",
+//      "Can build [Land] improvements on tiles",
+//	  "Can instantly construct a [Remove Forest] improvement",
+//      "Can instantly construct a [Remove Jungle] improvement",
+//      "Can instantly construct a [Remove Marsh] improvement",
+	  "Can instantly construct a [Improvement] improvement",
 	  "Can instantly construct a [All Road] improvement",
 	  "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
@@ -97,7 +98,7 @@
       "Uncapturable",
       "Unbuildable",
       "Cannot be purchased",
-      "Can carry [5] [Aircraft] units",
+      "Can carry [5] [Air] units",
       "[+25]% Strength <vs [Air] units> <when defending>",
       "[-100]% maintenance costs",
 	  "Will not be displayed in Civilopedia"
@@ -116,7 +117,7 @@
       "Uncapturable",
       "Unbuildable",
       "Cannot be purchased",
-      "Can carry [5] [Missile] units",
+      "Can carry [5] [Nuclear Weapon] units",
       "Invisible to non-adjacent units",
       "[-100]% maintenance costs",
 	  "Will not be displayed in Civilopedia"
@@ -130,8 +131,8 @@
     	"cost": 25,
     	"obsoleteTech": "Trapping",
         "upgradesTo": "Hunter",
-	"promotions": ["Ignore terrain cost"],
-	"attackSound": "nonmetalhit"
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
     },
     {
         "name": "Hunter",		
