@@ -17,7 +17,7 @@
       "uniques":[
 		 "[+1] Sight",
 		 "Ignores terrain cost",
-		 "[This Unit] gains [4] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
+		 "[This Unit] gains [6] XP <with [20]% chance> <upon discovering a [All] tile> <hidden from users>",
          "[This Unit] gains [15] XP <upon discovering a [Natural Wonder] tile>",
 		 "Comment [This Unit gains [2] XP with a 20% chance and [15] XP upon discovering a tile & Natural Wonder]"
       ],
