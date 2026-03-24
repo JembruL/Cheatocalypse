@@ -2,6 +2,7 @@
 ## v0.1.2
 ### Changed
 - Engineer & Renovator change behaviour
+- Tech tree changed for better visibility due to stretchy
 
 ### Fixed
 - Fixed syntax error
