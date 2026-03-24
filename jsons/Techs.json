@@ -7,7 +7,7 @@
       "techs":[
          {
             "name":"CheatTech",
-            "row":14,
+            "row":13,
 //            "quote":"'1",
             "uniques":[
                "Starting tech",
@@ -54,13 +54,21 @@
             "uniques":[
                "Will not be displayed in Civilopedia"
             ]
-         },
-		 {
+         } 
+      ]
+   }
+   {
+      "columnNumber":2,
+      "era":"Ancient era",
+      "techCost":999999,
+      "buildingCost":1,
+      "techs":[
+         {
             "name":"Experiment",
-            "row":15,
+            "row":14,
 //            "quote":"'1",
             "prerequisites":[
-               "CheatTech"
+               "Resource"
             ],
             "uniques":[
                "Will not be displayed in Civilopedia"
@@ -68,10 +76,10 @@
          },
 		 {
             "name":"Other",
-            "row":16,
+            "row":13,
 //            "quote":"'1",
             "prerequisites":[
-               "CheatTech"
+               "Resource"
             ],
             "uniques":[
                "Will not be displayed in Civilopedia"
@@ -79,34 +87,4 @@
          }
       ]
    }
-//   {
-//      "columnNumber":2,
-//      "era":"Ancient era",
-//      "techCost":999999,
-//      "buildingCost":1,
-//      "techs":[
-//         {
-//            "name":"Experiment",
-//            "row":13,
-////            "quote":"'1",
-//            "prerequisites":[
-//               "CheatTech"
-//            ],
-//            "uniques":[
-//               "Will not be displayed in Civilopedia"
-//            ]
-//         },
-//         {
-//            "name":"Other",
-//            "row":15,
-////            "quote":"'1",
-//            "prerequisites":[
-//               "CheatTech"
-//            ],
-//            "uniques":[
-//               "Will not be displayed in Civilopedia"
-//            ]
-//         }
-//      ]
-//   }
 ]
