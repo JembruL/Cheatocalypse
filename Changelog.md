@@ -1,8 +1,15 @@
 # Changelog
 ## v0.1.2
+### Added
+- New unit Speeder
+
 ### Changed
 - Engineer & Renovator change behaviour
 - Tech tree changed for better visibility due to stretchy
+- Downgrade free technologies to 3
+- Upgrade Settler reveal tiles radius to 5
+- Change Engineer & Renovator abilities
+- Remove unlimited range for bombard range
 
 ### Fixed
 - Fixed syntax error

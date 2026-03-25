@@ -25,13 +25,6 @@ UnitIcons/Missile Silo
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Civil Engineer
-  rotate: false
-  xy: 420, 12
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 UnitIcons/Engineer
   rotate: false
   xy: 420, 12
@@ -40,6 +33,13 @@ UnitIcons/Engineer
   offset: 0, 0
   index: -1
 UnitIcons/Renovator
+  rotate: false
+  xy: 420, 12
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Speeder
   rotate: false
   xy: 420, 12
   size: 200, 200

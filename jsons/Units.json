@@ -24,77 +24,72 @@
       "[+2] Movement <before the [Classical era]>",
       "Can see over obstacles <before the [Classical era]>",
 	  "Ignores terrain cost",
-	  "Reveal up to [all] [All] within a [4] tile radius"
+	  "Reveal up to [all] [All] within a [5] tile radius"
     ],
     "hurryCostModifier": 20
   },
   {
     "name": "Engineer", //enhanced better workers
     "unitType": "Civilian",
-    "movement": 4,
-    "obsoleteTech": "Industrialization",
+    "movement": 3,
+	"cost": 50
 	"requiredTech": "Unit",
-    "replacementTextForUniques": "Super cheat worker with instant abilities",
+    "replacementTextForUniques": "Super cheat worker with 99% production boost abilities",
     "uniques": [
+	  "[3] Sight",
+	  "May Paradrop to [All] tiles up to [30] tiles away",
+	  "All adjacent units heal [30] HP when healing",
       "Can build [Land] improvements on tiles",
-//      "Can instantly construct a [Farm] improvement",
-//      "Can instantly construct a [Pasture] improvement",
-//      "Can instantly construct a [Plantation] improvement",
-//      "Can instantly construct a [Mine] improvement",
-//      "Can instantly construct a [Quarry] improvement",
-//      "Can instantly construct a [Trading post] improvement",
-//      "Can instantly construct a [Camp] improvement",
-//      "Can instantly construct a [Lumber mill] improvement",
-//      "Can instantly construct a [Oil well] improvement",
       "Can instantly construct a [All Road] improvement",
 	  "[-100]% construction time for [All] improvements",
       "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
-    ],
-    "cost": 50
+    ]
   },
   {
-    "name": "Renovator", //from better workers
+    "name": "Renovator", 
     "unitType": "Civilian",
     "movement": 3,
     "cost": 50,
     "requiredTech": "Unit",
-    "replacementTextForUniques": "Can instantly remove Forests, Jungles or Marshes from tiles 5 times",
+    "replacementTextForUniques": "Can instantly action what Gods do",
     "uniques": [
-//      "Can build [Land] improvements on tiles",
-//	  "Can instantly construct a [Remove Forest] improvement",
-//      "Can instantly construct a [Remove Jungle] improvement",
-//      "Can instantly construct a [Remove Marsh] improvement",
-	  "Can instantly construct a [Improvement] improvement",
-	  "Can instantly construct a [All Road] improvement",
+      "[3] Sight",
+	  "May Paradrop to [All] tiles up to [30] tiles away",
+	  "All adjacent units heal [30] HP when healing",
+	  "Can instantly construct a [All] improvement",
 	  "Ignores terrain cost",
 	  "Will not be displayed in Civilopedia"
     ]
   },
-//  {
-//    "name": "Civil Engineer", //from better workers
-//    "unitType": "Civilian",
-//    "movement": 5,
-//    "cost": 150,
-//    "requiredTech": "CheatTech",
-//    "uniques": [
-//      "Can build [Land] improvements on tiles",
-//	  "Can instantly construct a [All Road] improvement",
-//      "[-33]% construction time for [All] improvements",
-//      "[+1] Movement <after discovering [Combustion]>",
-//      "[+1] Movement <after discovering [Mobile Tactics]>"
-//    ]
-//  },
+  {
+    "name": "Speeder", 
+    "unitType": "Civilian",
+    "movement": 3,
+    "cost": 50,
+    "requiredTech": "Unit",
+	"replacementTextForUniques": "Godspeed your productions",
+    "uniques": [
+      "[3] Sight",
+	  "May Paradrop to [All] tiles up to [30] tiles away",
+	  "All adjacent units heal [30] HP when healing",
+	  "Can speed up construction of a building",
+	  "Can speed up the construction of a wonder",
+      "Can generate a large amount of culture",
+      "Can hurry technology research",
+	  "Ignores terrain cost",
+	  "Will not be displayed in Civilopedia"
+    ]
+  },
   {
     "name": "Aerodrome", //from better workers
     "unitType": "Air Base",
     "movement": 2,
     "strength": 60,
     "cost": 250,
-    "requiredTech": "Construction",
+    "requiredTech": "Construct",
     "uniques": [
       "Limited to [5] per Civilization",
-      "Cannot move",
       "Uncapturable",
       "Unbuildable",
       "Cannot be purchased",
@@ -110,10 +105,9 @@
     "movement": 2,
     "strength": 60,
     "cost": 250,
-    "requiredTech": "Construction",
+    "requiredTech": "Construct",
     "uniques": [
       "Limited to [5] per Civilization",
-      "Cannot move",
       "Uncapturable",
       "Unbuildable",
       "Cannot be purchased",

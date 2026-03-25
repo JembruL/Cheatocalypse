@@ -36,11 +36,11 @@
 		 "Ranged Water",
 		 "Submarine",
 		 "Aircraft Carrier",
-		 "Fighter",
-		 "Bomber",
-		 "Atomic Bomber",
-		 "Missile",
-		 "Helicopter",
+//		 "Fighter",
+//		 "Bomber",
+//		 "Atomic Bomber",
+//		 "Missile",
+//		 "Helicopter",
       ]
    },
    {
@@ -54,11 +54,11 @@
       ],
       "requiredTech":"CheatTech",
       "unitTypes":[
-		 "Aircraft Carrier",
+//		 "Aircraft Carrier",
 		 "Fighter",
 		 "Bomber",
 		 "Atomic Bomber",
-		 "Missile",
+//		 "Missile",
 		 "Helicopter",
       ]
    },

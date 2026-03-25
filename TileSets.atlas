@@ -46,86 +46,65 @@ TileSets/AbsoluteUnits/Units/Aerodrome-2
   orig: 78, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Civil Engineer
+TileSets/AbsoluteUnits/Units/Engineer
   rotate: false
   xy: 107, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Civil Engineer-1
+TileSets/AbsoluteUnits/Units/Engineer-1
   rotate: false
   xy: 210, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Civil Engineer-2
+TileSets/AbsoluteUnits/Units/Engineer-2
   rotate: false
   xy: 210, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Engineer
+TileSets/AbsoluteUnits/Units/Explorer
   rotate: false
   xy: 313, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Engineer-1
-  rotate: false
-  xy: 313, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Engineer-2
-  rotate: false
-  xy: 416, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Explorer
-  rotate: false
-  xy: 416, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Hunter
   rotate: false
-  xy: 416, 77
+  xy: 313, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-1
   rotate: false
-  xy: 519, 166
+  xy: 313, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hunter-1
   rotate: false
-  xy: 519, 166
+  xy: 313, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-2
   rotate: false
-  xy: 519, 77
+  xy: 416, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hunter-2
   rotate: false
-  xy: 519, 77
+  xy: 416, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
@@ -153,82 +132,103 @@ TileSets/AbsoluteUnits/Units/Missile Silo-2
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator
   rotate: false
-  xy: 622, 166
+  xy: 416, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-1
   rotate: false
-  xy: 622, 77
+  xy: 519, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-2
   rotate: false
-  xy: 725, 166
+  xy: 519, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter
   rotate: false
-  xy: 725, 77
+  xy: 622, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-1
   rotate: false
-  xy: 828, 166
+  xy: 622, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-2
   rotate: false
-  xy: 828, 77
+  xy: 725, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper
   rotate: false
-  xy: 931, 166
+  xy: 725, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops
   rotate: false
-  xy: 931, 166
+  xy: 725, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-1
   rotate: false
-  xy: 931, 77
+  xy: 828, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-1
   rotate: false
-  xy: 931, 77
+  xy: 828, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-2
   rotate: false
-  xy: 1034, 166
+  xy: 828, 77
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-2
+  rotate: false
+  xy: 828, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Speeder
+  rotate: false
+  xy: 931, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Speeder-1
+  rotate: false
+  xy: 931, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Speeder-2
   rotate: false
   xy: 1034, 166
   size: 95, 81
