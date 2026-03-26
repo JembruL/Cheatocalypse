@@ -1,4 +1,16 @@
 # Changelog
+## v0.1.3
+### Added
+- 
+
+### Changed
+- Check compatibility for base game version update [v4.19.19](https://github.com/yairm210/Unciv/releases/tag/4.19.19)
+
+### Fixed
+- 
+
+---
+
 ## v0.1.2
 ### Added
 - New unit Speeder
