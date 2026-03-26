@@ -34,14 +34,14 @@ TileSets/AbsoluteUnits/Units/Aerodrome
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-1
   rotate: false
-  xy: 1034, 93
+  xy: 1961, 182
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-2
   rotate: false
-  xy: 1137, 182
+  xy: 1755, 93
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
@@ -132,148 +132,232 @@ TileSets/AbsoluteUnits/Units/Hunter-2
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo
   rotate: false
-  xy: 1308, 191
+  xy: 260, 13
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-1
   rotate: false
-  xy: 260, 13
+  xy: 332, 13
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-2
   rotate: false
-  xy: 1380, 191
+  xy: 404, 13
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Renovator
-  rotate: false
-  xy: 622, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Renovator-1
-  rotate: false
-  xy: 622, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Renovator-2
-  rotate: false
-  xy: 725, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sharpshooter
-  rotate: false
-  xy: 725, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sharpshooter-1
-  rotate: false
-  xy: 828, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sharpshooter-2
-  rotate: false
-  xy: 828, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sniper
-  rotate: false
-  xy: 931, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Spec Ops
-  rotate: false
-  xy: 931, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sniper-1
-  rotate: false
-  xy: 931, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Spec Ops-1
-  rotate: false
-  xy: 931, 77
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Sniper-2
-  rotate: false
-  xy: 1034, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Spec Ops-2
-  rotate: false
-  xy: 1034, 166
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Speeder
-  rotate: false
-  xy: 1452, 163
-  size: 64, 84
-  orig: 64, 84
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Speeder-1
-  rotate: false
-  xy: 1524, 163
-  size: 64, 84
-  orig: 64, 84
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Speeder-2
-  rotate: false
-  xy: 1596, 163
-  size: 64, 84
-  orig: 64, 84
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Ztank
+TileSets/AbsoluteUnits/Units/NArtillery
   rotate: false
   xy: 90, 4
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Ztank-1
+TileSets/AbsoluteUnits/Units/NArtillery-1
   rotate: false
-  xy: 1223, 182
+  xy: 1841, 93
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Ztank-2
+TileSets/AbsoluteUnits/Units/NArtillery-2
   rotate: false
   xy: 175, 4
   size: 77, 65
   orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namelfir
+  rotate: false
+  xy: 622, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter
+  rotate: false
+  xy: 622, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namelfir-1
+  rotate: false
+  xy: 622, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-1
+  rotate: false
+  xy: 622, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namelfir-2
+  rotate: false
+  xy: 725, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sharpshooter-2
+  rotate: false
+  xy: 725, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrows
+  rotate: false
+  xy: 725, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrows-1
+  rotate: false
+  xy: 828, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrows-2
+  rotate: false
+  xy: 828, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrowsgnol
+  rotate: false
+  xy: 931, 152
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrowsgnol-1
+  rotate: false
+  xy: 1034, 152
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namsdrowsgnol-2
+  rotate: false
+  xy: 1137, 152
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namteksum
+  rotate: false
+  xy: 1240, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namteksum-1
+  rotate: false
+  xy: 1343, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Namteksum-2
+  rotate: false
+  xy: 1446, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator
+  rotate: false
+  xy: 1549, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-1
+  rotate: false
+  xy: 1652, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Renovator-2
+  rotate: false
+  xy: 1755, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper
+  rotate: false
+  xy: 1858, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops
+  rotate: false
+  xy: 1858, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-1
+  rotate: false
+  xy: 1240, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-1
+  rotate: false
+  xy: 1240, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sniper-2
+  rotate: false
+  xy: 1343, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spec Ops-2
+  rotate: false
+  xy: 1343, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni
+  rotate: false
+  xy: 1446, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni-1
+  rotate: false
+  xy: 1549, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni-2
+  rotate: false
+  xy: 1652, 77
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
