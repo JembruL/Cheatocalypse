@@ -1,7 +1,8 @@
 # Changelog
 ## v0.1.3
 ### Added
-- 
+- To include some units of [Upside-Down](https://github.com/SpacedOutChicken/Upside-Down) by SpacedOutChicken
+- Nuclear Artillery to wiped out the enemy lmao
 
 ### Changed
 - Check compatibility for base game version update [v4.19.19](https://github.com/yairm210/Unciv/releases/tag/4.19.19)

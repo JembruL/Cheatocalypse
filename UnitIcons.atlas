@@ -1,89 +1,124 @@
 
 UnitIcons.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
 UnitIcons/Activation
   rotate: false
-  xy: 4, 12
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Aerodrome
   rotate: false
-  xy: 212, 12
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Missile Silo
   rotate: false
-  xy: 212, 12
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Civil Engineer
   rotate: false
-  xy: 420, 12
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Engineer
   rotate: false
-  xy: 420, 12
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Renovator
   rotate: false
-  xy: 420, 12
+  xy: 420, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Explorer
   rotate: false
-  xy: 628, 112
+  xy: 628, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hunter
   rotate: false
-  xy: 736, 112
+  xy: 736, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sharpshooter
+UnitIcons/NArtillery
   rotate: false
-  xy: 844, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Sniper
-  rotate: false
-  xy: 628, 4
+  xy: 844, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Spec Ops
   rotate: false
-  xy: 736, 4
+  xy: 844, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ztank
+UnitIcons/Namelfir
   rotate: false
-  xy: 736, 4
+  xy: 952, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrows
+  rotate: false
+  xy: 1060, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namsdrowsgnol
+  rotate: false
+  xy: 1168, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namteksum
+  rotate: false
+  xy: 1276, 105
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitIcons/Sharpshooter
+  rotate: false
+  xy: 1384, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sniper
+  rotate: false
+  xy: 1492, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Taerg Raw Yrtnafni
+  rotate: false
+  xy: 1600, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
