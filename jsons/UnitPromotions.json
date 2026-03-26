@@ -23,7 +23,7 @@
       ],
       "requiredTech":"CheatTech",
       "unitTypes":[
-         "Civilian",
+//       "Civilian",
 		 "Sword",
 		 "Gunpowder",
 		 "Archery",

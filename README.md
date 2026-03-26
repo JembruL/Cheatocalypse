@@ -14,9 +14,9 @@ A chaos sandbox mod for [Unciv](https://github.com/yairm210/Unciv) (Gods & Kings
 
 - Boosted yields (production, gold, etc.) for faster development
 - Overpowered Scout with high movement and extended vision
-- Builder unit with instant improvement capability
+- Builder unit with instant and 99% production boost improvement capability
 - Accelerated experience gain from movement and exploration
-- Custom promotions focused on balanced offense and defense
+- Custom promotions focused on explore experience
 - Human-focused design (AI does not benefit from cheat mechanics)
 
 ## Design Goal
@@ -28,4 +28,4 @@ It provides faster progression and stronger tools while keeping gameplay from be
 
 - Built for Gods & Kings ruleset
 - Inspired by existing [UncivCheatMeun](https://github.com/Tonedome/UncivCheatMeun) mods, but heavily reworked
-- Developed on Unciv version 4.19.17-patch2
+- Developed on Unciv version [4.19.19](https://github.com/yairm210/Unciv/releases/tag/4.19.19)
