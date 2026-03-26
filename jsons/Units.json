@@ -1,9 +1,9 @@
 [
   {
-    "name": "Activation", //original uncheatmenu
+    "name": "Activation", //uncheatmenu
     "unitType": "Civilian",
     "uniques": [
-      "[2] Free Technologies <by consuming this unit>",
+      "[3] Free Technologies <by consuming this unit>",
       "Unbuildable",
       "Uncapturable",
 	  "Will not be displayed in Civilopedia"
@@ -11,7 +11,7 @@
     "movement": 2
   },
   {
-    "name": "Settler", //from boosted settler
+    "name": "Settler", //boosted settler
     "unitType": "Civilian",
     "movement": 2,
     "cost": 106,
@@ -24,7 +24,7 @@
       "[+2] Movement <before the [Classical era]>",
       "Can see over obstacles <before the [Classical era]>",
 	  "Ignores terrain cost",
-	  "Reveal up to [all] [All] within a [5] tile radius"
+	  "Reveal up to [all] [all] within a [4] tile radius"
     ],
     "hurryCostModifier": 20
   },
@@ -42,9 +42,10 @@
 	  "All adjacent units heal [30] HP when healing",
       "Can build [Land] improvements on tiles",
       "Can instantly construct a [All Road] improvement",
-	  "[-100]% construction time for [All] improvements",
-//      "Ignores terrain cost",
-	  "Will not be displayed in Civilopedia"
+	  "[-99]% construction time for [All] improvements",
+	  "Only available <for [Human player] Civilizations> <hidden from users>"
+//    "Ignores terrain cost",
+//	  "Will not be displayed in Civilopedia"
     ]
   },
   {
@@ -60,28 +61,33 @@
 	  "May Paradrop to [All] tiles up to [30] tiles away",
 	  "All adjacent units heal [30] HP when healing",
 	  "Can instantly construct a [All] improvement",
+	  "Only available <for [Human player] Civilizations> <hidden from users>"
 //	  "Ignores terrain cost",
-	  "Will not be displayed in Civilopedia"
+//	  "Will not be displayed in Civilopedia"
     ]
   },
   {
     "name": "Speeder", 
     "unitType": "Civilian",
-    "movement": 3,
+    "movement": 4,
     "cost": 50,
     "requiredTech": "Unit",
 	"replacementTextForUniques": "Godspeed your productions",
 	"promotions": ["Ignore terrain cost"],
     "uniques": [
-      "[3] Sight",
-	  "May Paradrop to [All] tiles up to [30] tiles away",
-	  "All adjacent units heal [30] HP when healing",
-	  "Can speed up construction of a building",
-	  "Can speed up the construction of a wonder",
-      "Can generate a large amount of culture",
-      "Can hurry technology research",
+      "[4] Sight",
+	  "May Paradrop to [All] tiles up to [50] tiles away",
+	  "All adjacent units heal [40] HP when healing",
+	  "Never appears as a Barbarian unit",
+	  "Can carry [5] [land units] units",
+	  "[+25]% Strength bonus for [Military] units within [2] tiles",
+	  "Only available <for [Human player] Civilizations> <hidden from users>"
+//	  "Can speed up construction of a building",
+//	  "Can speed up the construction of a wonder",
+//    "Can generate a large amount of culture",
+//    "Can hurry technology research",
 //	  "Ignores terrain cost",
-	  "Will not be displayed in Civilopedia"
+//	  "Will not be displayed in Civilopedia"
     ]
   },
   {
