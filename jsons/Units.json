@@ -76,7 +76,7 @@
     "cost": 250,
     "requiredTech": "Unit",
 //	"replacementTextForUniques": "Godspeed your productions",
-	"promotions": ["Ignore terrain cost", "Exploration"],
+	"promotions": ["Ignore terrain cost", "Exploration", "Rapid Fire"],
 	"attackSound": "bombing"
     "uniques": [
       "May Paradrop to [All] tiles up to [50] tiles away",
@@ -87,7 +87,7 @@
 	  "All adjacent units heal [40] HP when healing",
 	  "[+25]% Strength bonus for [Military] units within [2] tiles",
 	  "Nuclear weapon of Strength [3]"
-	  "Blast radius [3]",
+	  "Blast radius [2]",
 	  "Can move after attacking",
 	  "Destroys tile improvements when attacking",
 	  "Destroys [in all cities] cities instead of capturing",
