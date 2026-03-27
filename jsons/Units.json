@@ -196,7 +196,7 @@
     {
         "name": "Hunter",		
         "unitType": "Scout",
-        "range": 1,
+        "range": 2,
         "movement": 3,		
         "strength": 6,		
         "rangedStrength": 10,
@@ -211,7 +211,7 @@
     {
         "name": "Explorer",		
         "unitType": "Scout",
-        "range": 1,
+        "range": 2,
         "movement": 3,		
         "strength": 14,		
         "rangedStrength": 16,
@@ -226,7 +226,7 @@
     {
         "name": "Sharpshooter",
         "unitType": "Scout",
-        "range": 2,		
+        "range": 3,		
         "movement": 3,		
         "strength": 20,		
         "rangedStrength": 20,		
@@ -240,7 +240,7 @@
     {
         "name": "Sniper",
         "unitType": "Scout",
-        "range": 3,		
+        "range": 4,		
         "movement": 3,		
         "strength": 40,		
         "rangedStrength": 40,		
@@ -253,7 +253,7 @@
     {
         "name": "Spec Ops",
         "unitType": "Scout",
-        "range": 2,		
+        "range": 4,		
         "movement": 4,		
         "strength": 50,		
         "rangedStrength": 50,		
@@ -293,7 +293,7 @@
 		"requiredBuilding":"Cheat Wonder",
         "obsoleteTech": "Metallurgy",
 		"upgradesTo": "Namteksum",
-		"requiredResource": "Iron",
+//		"requiredResource": "Iron",
 		"uniques": ["[1] Sight",
 			"May Paradrop to [All] tiles up to [25] tiles away",
 			"Only available <for [Human player] Civilizations> <hidden from users>"],
