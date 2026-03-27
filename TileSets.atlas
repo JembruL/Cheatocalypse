@@ -11,7 +11,7 @@ TileSets/AbsoluteUnits/Units/Activation
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pathfinder
+TileSets/AbsoluteUnits/Units/Wayfinder
   rotate: false
   xy: 4, 166
   size: 95, 81
@@ -25,7 +25,7 @@ TileSets/AbsoluteUnits/Units/Activation-1
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pathfinder-1
+TileSets/AbsoluteUnits/Units/Wayfinder-1
   rotate: false
   xy: 4, 77
   size: 95, 81
@@ -39,7 +39,7 @@ TileSets/AbsoluteUnits/Units/Activation-2
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Pathfinder-2
+TileSets/AbsoluteUnits/Units/Wayfinder-2
   rotate: false
   xy: 107, 166
   size: 95, 81
