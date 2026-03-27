@@ -284,7 +284,7 @@
         "obsoleteTech": "Rifling",
 		"upgradesTo": "Namelfir",
 		"uniques": ["[1] Sight",
-			"[+50]% Strength <vs [Mounted] units>",
+			"[50]% Strength <vs [Melee] units>",
 			"Ignores terrain cost",
 			"May Paradrop to [All] tiles up to [25] tiles away",
 			"Only available <for [Human player] Civilizations> <hidden from users>"],
