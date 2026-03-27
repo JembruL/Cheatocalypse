@@ -20,9 +20,28 @@
       "Founds a new city",
       "Excess Food converted to Production when under construction",
       "Requires at least [2] population",
-      "[+3] Sight <before the [Classical era]>",
-      "[+2] Movement <before the [Classical era]>",
+      "[3] Sight <before the [Classical era]>",
+      "[2] Movement <before the [Classical era]>",
       "Can see over obstacles <before the [Classical era]>",
+	  "Ignores terrain cost",
+	  "Reveal up to [all] [all] within a [4] tile radius"
+    ],
+    "hurryCostModifier": 20
+  },
+  {
+    "name": "Pathfinder", //custom settler
+    "unitType": "Civilian",
+    "movement": 4,
+    "cost": 100,
+	"requiredTech":"Unit",
+    "uniques": [
+      "Founds a new city",
+      "Excess Food converted to Production when under construction",
+      "Requires at least [2] population",
+	  "May Paradrop to [All] tiles up to [30] tiles away",
+      "[4] Sight",
+      "Can see over obstacles",
+	  "Only available <for [Human player] Civilizations> <hidden from users>"
 	  "Ignores terrain cost",
 	  "Reveal up to [all] [all] within a [4] tile radius"
     ],
@@ -85,7 +104,7 @@
 	  "[4] Range",
 	  "[50] HP when healing",
 	  "All adjacent units heal [40] HP when healing",
-	  "[+25]% Strength bonus for [Military] units within [2] tiles",
+	  "[25]% Strength bonus for [Military] units within [2] tiles",
 	  "Nuclear weapon of Strength [3]",
 	  "Blast radius [2]",
 //	  "Can move after attacking",
@@ -111,7 +130,7 @@
       "Unbuildable",
       "Cannot be purchased",
       "Can carry [5] [Air] units",
-      "[+25]% Strength <vs [Air] units> <when defending>",
+      "[25]% Strength <vs [Air] units> <when defending>",
       "[-100]% maintenance costs",
 	  "Will not be displayed in Civilopedia"
     ]
@@ -265,7 +284,7 @@
         "obsoleteTech": "Rifling",
 		"upgradesTo": "Namelfir",
 		"uniques": ["[1] Sight",
-			"[+50]% Strength <vs [Mounted] units>",
+			"[50]% Strength <vs [Melee] units>",
 			"Ignores terrain cost",
 			"May Paradrop to [All] tiles up to [25] tiles away",
 			"Only available <for [Human player] Civilizations> <hidden from users>"],
@@ -286,7 +305,7 @@
 		"upgradesTo": "Taerg Raw Yrtnafni",
 		"promotions": ["[Namelfir] ability", "March", "Drill I", "Land Exploration", "Ignore terrain cost"],
 		"uniques": ["[1] Sight",
-			"[+20]% Strength <when fighting in [Foreign Land] tiles>",
+			"[20]% Strength <when fighting in [Foreign Land] tiles>",
 			"May Paradrop to [All] tiles up to [25] tiles away",
 			"Only available <for [Human player] Civilizations> <hidden from users>"],
 		"attackSound": "shot"
@@ -305,7 +324,7 @@
 		"upgradesTo": "Infantry",
 		"promotions": ["[Namelfir] ability", "March", "Drill I", "Land Exploration", "Ignore terrain cost"],
 		"uniques": ["[1] Sight",
-			"[+20]% Strength <when fighting in [Foreign Land] tiles>",
+			"[20]% Strength <when fighting in [Foreign Land] tiles>",
 			"May Paradrop to [All] tiles up to [25] tiles away",
 			"Only available <for [Human player] Civilizations> <hidden from users>"],
 		"attackSound": "shot"

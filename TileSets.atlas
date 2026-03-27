@@ -11,6 +11,13 @@ TileSets/AbsoluteUnits/Units/Activation
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Pathfinder
+  rotate: false
+  xy: 4, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Activation-1
   rotate: false
   xy: 4, 77
@@ -18,7 +25,21 @@ TileSets/AbsoluteUnits/Units/Activation-1
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Pathfinder-1
+  rotate: false
+  xy: 4, 77
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Activation-2
+  rotate: false
+  xy: 107, 166
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pathfinder-2
   rotate: false
   xy: 107, 166
   size: 95, 81

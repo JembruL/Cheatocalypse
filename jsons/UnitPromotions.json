@@ -233,8 +233,8 @@
    {
 		"name": "[Namsdrows] ability",
 		"uniques": [
-			"[+33]% Strength <when fighting in [Forest] tiles>",
-			"[+33]% Strength <when fighting in [Jungle] tiles>"
+			"[+33]% Strength <when fighting in [Rough terrain] tiles>",
+//			"[+33]% Strength <when fighting in [Jungle] tiles>"
 		]
 	},
 	{
@@ -247,12 +247,12 @@
 	{
 		"name": "[Namelfir] ability",
 		"uniques": [
-			"[+25]% Strength <when fighting in [Snow] tiles>",
-			"[+25]% Strength <when fighting in [Tundra] tiles>",
-			"[+25]% Strength <when fighting in [Hill] tiles>",
-			"Double movement in [Snow]",
-			"Double movement in [Tundra]",
-			"Double movement in [Hill]",
+			"[+25]% Strength <when fighting in [Open terrain] tiles>",
+			"[+25]% Strength <when fighting in [Rough terrain] tiles>",
+			"[+25]% Strength <when fighting in [Water] tiles>",
+			"Double movement in [Open terrain]",
+			"Double movement in [Rough terrain]",
+			"Double movement in [Water]",
 			"[+30]% Strength decreasing with distance from the capital"
 		]
 	}
