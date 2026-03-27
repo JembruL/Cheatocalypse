@@ -11,7 +11,7 @@ UnitIcons/Activation
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Pathfinder
+UnitIcons/Wayfinder
   rotate: false
   xy: 4, 4
   size: 200, 200
