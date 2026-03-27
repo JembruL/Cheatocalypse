@@ -3,6 +3,7 @@
 ### Added
 - To include some units of [Upside-Down](https://github.com/SpacedOutChicken/Upside-Down) by SpacedOutChicken
 - Nuclear Artillery to wiped out the enemy lmao (beware diplomacy pinalty!)
+- Alter Nuclear Artillery unit named Iron Rain Walker
 - Custom settler unit
 
 ### Changed

@@ -27,5 +27,6 @@ It provides faster progression and stronger tools while keeping gameplay from be
 ## Notes
 
 - Built for Gods & Kings ruleset
+- Played with [AbsoluteUnits](https://github.com/letstalkaboutdune/AbsoluteUnits) TileSets
 - Inspired by existing [UncivCheatMeun](https://github.com/Tonedome/UncivCheatMeun) & [Upside-Down](https://github.com/SpacedOutChicken/Upside-Down) mods, but heavily reworked
 - Developed on Unciv version [4.19.19](https://github.com/yairm210/Unciv/releases/tag/4.19.19)

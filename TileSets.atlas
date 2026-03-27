@@ -6,378 +6,399 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Activation
   rotate: false
-  xy: 4, 166
+  xy: 4, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wayfinder
   rotate: false
-  xy: 4, 166
+  xy: 4, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Activation-1
   rotate: false
-  xy: 4, 77
+  xy: 4, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wayfinder-1
   rotate: false
-  xy: 4, 77
+  xy: 4, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Activation-2
   rotate: false
-  xy: 107, 166
+  xy: 107, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wayfinder-2
   rotate: false
-  xy: 107, 166
+  xy: 107, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome
   rotate: false
-  xy: 4, 4
+  xy: 4, 7
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-1
   rotate: false
-  xy: 1961, 182
+  xy: 1961, 185
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Aerodrome-2
   rotate: false
-  xy: 1755, 93
+  xy: 1755, 96
   size: 78, 65
   orig: 78, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer
   rotate: false
-  xy: 107, 77
+  xy: 107, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-1
   rotate: false
-  xy: 210, 166
+  xy: 210, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Civil Engineer-2
   rotate: false
-  xy: 210, 77
+  xy: 210, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer
   rotate: false
-  xy: 313, 166
+  xy: 313, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-1
   rotate: false
-  xy: 313, 77
+  xy: 313, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Engineer-2
   rotate: false
-  xy: 416, 166
+  xy: 416, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer
   rotate: false
-  xy: 416, 77
+  xy: 416, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hunter
   rotate: false
-  xy: 416, 77
+  xy: 416, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-1
   rotate: false
-  xy: 519, 166
+  xy: 519, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hunter-1
   rotate: false
-  xy: 519, 166
+  xy: 519, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Explorer-2
   rotate: false
-  xy: 519, 77
+  xy: 519, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hunter-2
   rotate: false
-  xy: 519, 77
+  xy: 519, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Iron Rain Walker
+  rotate: false
+  xy: 1926, 77
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Iron Rain Walker-1
+  rotate: false
+  xy: 1755, 4
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Iron Rain Walker-2
+  rotate: false
+  xy: 1827, 4
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo
   rotate: false
-  xy: 260, 13
+  xy: 260, 16
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-1
   rotate: false
-  xy: 332, 13
+  xy: 332, 16
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Missile Silo-2
   rotate: false
-  xy: 404, 13
+  xy: 404, 16
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/NArtillery
   rotate: false
-  xy: 90, 4
+  xy: 90, 7
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/NArtillery-1
   rotate: false
-  xy: 1841, 93
+  xy: 1841, 96
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/NArtillery-2
   rotate: false
-  xy: 175, 4
+  xy: 175, 7
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namelfir
   rotate: false
-  xy: 622, 166
+  xy: 622, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter
   rotate: false
-  xy: 622, 166
+  xy: 622, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namelfir-1
   rotate: false
-  xy: 622, 77
+  xy: 622, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-1
   rotate: false
-  xy: 622, 77
+  xy: 622, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namelfir-2
   rotate: false
-  xy: 725, 166
+  xy: 725, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sharpshooter-2
   rotate: false
-  xy: 725, 166
+  xy: 725, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrows
   rotate: false
-  xy: 725, 77
+  xy: 725, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrows-1
   rotate: false
-  xy: 828, 166
+  xy: 828, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrows-2
   rotate: false
-  xy: 828, 77
+  xy: 828, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrowsgnol
   rotate: false
-  xy: 931, 152
+  xy: 931, 155
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrowsgnol-1
   rotate: false
-  xy: 1034, 152
+  xy: 1034, 155
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namsdrowsgnol-2
   rotate: false
-  xy: 1137, 152
+  xy: 1137, 155
   size: 95, 95
   orig: 95, 95
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namteksum
   rotate: false
-  xy: 1240, 166
+  xy: 1240, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namteksum-1
   rotate: false
-  xy: 1343, 166
+  xy: 1343, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Namteksum-2
   rotate: false
-  xy: 1446, 166
+  xy: 1446, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator
   rotate: false
-  xy: 1549, 166
+  xy: 1549, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-1
   rotate: false
-  xy: 1652, 166
+  xy: 1652, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Renovator-2
   rotate: false
-  xy: 1755, 166
+  xy: 1755, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper
   rotate: false
-  xy: 1858, 166
+  xy: 1858, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops
   rotate: false
-  xy: 1858, 166
+  xy: 1858, 169
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-1
   rotate: false
-  xy: 1240, 77
+  xy: 1240, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-1
   rotate: false
-  xy: 1240, 77
+  xy: 1240, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sniper-2
   rotate: false
-  xy: 1343, 77
+  xy: 1343, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spec Ops-2
   rotate: false
-  xy: 1343, 77
+  xy: 1343, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni
   rotate: false
-  xy: 1446, 77
+  xy: 1446, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni-1
   rotate: false
-  xy: 1549, 77
+  xy: 1549, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Taerg Raw Yrtnafni-2
   rotate: false
-  xy: 1652, 77
+  xy: 1652, 80
   size: 95, 81
   orig: 95, 81
   offset: 0, 0

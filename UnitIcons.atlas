@@ -67,65 +67,72 @@ UnitIcons/Hunter
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Iron Rain Walker
+  rotate: false
+  xy: 844, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/NArtillery
-  rotate: false
-  xy: 844, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Spec Ops
-  rotate: false
-  xy: 844, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Namelfir
   rotate: false
   xy: 952, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Namsdrows
+UnitIcons/Spec Ops
+  rotate: false
+  xy: 952, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Namelfir
   rotate: false
   xy: 1060, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Namsdrowsgnol
+UnitIcons/Namsdrows
   rotate: false
   xy: 1168, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Namsdrowsgnol
+  rotate: false
+  xy: 1276, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Namteksum
   rotate: false
-  xy: 1276, 105
+  xy: 1384, 105
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 UnitIcons/Sharpshooter
   rotate: false
-  xy: 1384, 104
+  xy: 1492, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Sniper
   rotate: false
-  xy: 1492, 104
+  xy: 1600, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Taerg Raw Yrtnafni
   rotate: false
-  xy: 1600, 104
+  xy: 1708, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
