@@ -4,6 +4,10 @@
     "unitType": "Civilian",
     "uniques": [
       "[3] Free Technologies <by consuming this unit>",
+"[5] Sight <before the [Classical era]>",
+      "[8] Movement <before the [Classical era]>",
+      "Can see over obstacles <before the [Classical era]>",
+	  "Ignores terrain cost",
       "Unbuildable",
       "Uncapturable",
 	  "Will not be displayed in Civilopedia"
@@ -103,6 +107,7 @@
 	  "[4] Sight",
 	  "[4] Range",
 	  "[50] HP when healing",
+"Can see over obstacles",
 	  "All adjacent units heal [40] HP when healing",
 	  "[+25]% Strength bonus for [Military] units within [2] tiles",
 	  "Nuclear weapon of Strength [3]",
@@ -133,6 +138,7 @@
 	  "[3] Sight",
 	  "[4] Range",
 	  "[50] HP when healing",
+"Can see over obstacles",
 	  "All adjacent units heal [40] HP when healing",
 	  "[+25]% Strength bonus for [Military] units within [2] tiles",
 	  "[+100]% Strength <vs cities> <when attacking>",
